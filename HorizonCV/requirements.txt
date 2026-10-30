@@ -1,0 +1,11 @@
+numpy>=1.24,<2.0
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7,<4.0
+cycler
+packaging
+pyparsing
+python-dateutil
+pytz
+six
+appdirs
